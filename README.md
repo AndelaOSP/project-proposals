@@ -1,2 +1,2 @@
 # project-proposals
-See &lt;issues>
+See [issues](https://github.com/LetsOpen/project-proposals/issues)
